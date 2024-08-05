@@ -15,9 +15,9 @@ if openai_api_key:
 
 # Assistant IDs
 assistants = {
-    "LCA Expert": "asst_0q6wAjShz1DofIJem76L46J1",
-    "Design for Sustainability Expert": "asst_vpDWuonvispJozwxlKh1ooeY",
-    "Environmental Research Analyst": "asst_VvSwMiDTu5Upk2kF8I02zle8"
+    "LCA Expert": "asst_lpH6d9tYC0tmbTU4987IzHRT",
+    "Design for Sustainability Expert": "asst_6ZKmFLxhicIRCCHodB6C31zy",
+    "Environmental Research Analyst": "asst_tRwFkju3Y7srIcA2MWvHDSuv"
 }
 
 # Sidebar for selecting assistant and clearing chat
